@@ -195,7 +195,6 @@ Handles task-related functionality and project task management.
 Possible future enhancements include:
 
 * Role-based access control
-* User authentication and authorization
 * Task assignment to team members
 * Task priorities and deadlines
 * Project progress tracking
